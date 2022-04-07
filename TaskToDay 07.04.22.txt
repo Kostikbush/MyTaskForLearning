@@ -1,3 +1,8 @@
 To day I am must: 
-(One) -- read 30 page of Python book.
-(Two) -- to do dropdown for project metallamp. 
+1)(One) -- read 30 page of Python boock.
+2)(Two) -- to do dropdown for project metallamp. 
+
+
+That I make to do:
+    1) I am start coding for dropdown, but not all logick 
+    2) I am stop on 614 page. 
