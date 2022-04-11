@@ -3,5 +3,5 @@ To day I am must:
 2)  Read sam page of book Python
 
     That I make to do:
-    1) 
-    2)
+    1) Do not dropdown__bad because I dont now how add (not overwrite) value in placeholder
+    2)I am stop on page 700
