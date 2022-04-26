@@ -1,7 +1,0 @@
-To day I am must:
-1)  to begin to do program toDoList
-2)  Read sam page of book Python.
-
-    That I make to do:
-    1) Not to do this task
-    2)  I am stop on page 740.  
