@@ -3,5 +3,5 @@ To day I am must:
 2)  Read sam page of book Python.
 
     That I make to do:
-    1)  
-    2)  I am stop on page 750. 
+    1)  To day I am do new app TodoList
+    2)  I am stop on page 752. 
