@@ -1,0 +1,9 @@
+To day I am must: 
+1)(One) -- read some quantity page of Python boock.
+2)(Two) -- to do ToDoApp use React, Typescript, Zustand, SCSS, ViteJS. 
+
+
+That I make to do:
+    1) I am stop on 800 page.
+    2) 
+
